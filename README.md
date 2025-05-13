@@ -1,4 +1,3 @@
-# Cosmic-Conquest
 # Cosmic Conquest
 
 ![cosmic_conquest_image](https://github.com/user-attachments/assets/fa1f4834-0ebf-4ccb-99bd-48535d512571)
